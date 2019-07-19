@@ -39,7 +39,7 @@ To run the program, load the file with Prolog and query: `emily([A,B,C,D,E,F,G,H
   <li>However, setting J ≥ I and A=1924 does not exactly replicate Burg, Boyle & Lang's (2000: 387) timeline in table 4.</li>
   </ul>
 <li>A major controversy in the literature is whether Emily's taxes are remitted in the year of her father's death (C=H), or during her china-painting lessons (N ≤ C ≤ E); Burg, Boyle & Lang's (2000) program and ours confirm the latter.</li>
-<li>As before, 1904 is inconsistent as the year when Emily's taxes are remitted.</li>
+<li>A draft by Faulkner says Emily's taxes are remitted in 1904. We confirm previous findings that this is inconsistent.</li>
 </ul>
 
 ## Possible Extensions
